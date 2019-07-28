@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Book a Room",
+  "short_name": "Book a Room",
+  "description": "Booking a room",
   "icons": [
     {
       "src": "favicon.ico",
@@ -9,7 +10,9 @@
     }
   ],
   "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "lang": "Russian",
+  "theme_color": "#fff",
+  "background_color": "transparent"
 }
